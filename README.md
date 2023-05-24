@@ -10,12 +10,12 @@
 
 These are my main skills:
 
-+ Programming: Java, JS, Python, C, C#, Visual Basic, Elixir.
-+ Frameworks: Spring, Express.js, React.js, Vue.js, .NET, Android SDK.
-+ DBS: MySQL / MariaDB, Microsoft SQL Server, PostgreSQL, MongoDB, Oracle.
-+ OS Administration: GNU / Linux and Windows.
-+ ERP Development: Odoo
-+ Networks, firewalls, computer security.
++ **Programming**: Java, JS, Python, C, C#, Visual Basic, Elixir.
++ **Frameworks**: Spring, Express.js, React.js, Vue.js, .NET, Android SDK.
++ **DBS**: MySQL / MariaDB, Microsoft SQL Server, PostgreSQL, MongoDB, Oracle.
++ **OS** Administration: GNU / Linux and Windows.
++ **ERP Development**: Odoo
++ **Networks, firewalls, computer security.**
 
 📫 You can reach me through my email [alejandro.bujan.pampin@gmail.com](mailto://alejandro.bujan.pampin@gmail.com)
 
