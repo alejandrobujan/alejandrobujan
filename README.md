@@ -8,7 +8,7 @@ I feel comfortable in international contexts, since I have studied part of my de
 
 These are my main skills:
 
-+ Programming: Java, JS, Python, C#, Visual Basic, Elixir, C.
++ Programming: Java, JS, Python, C, C#, Visual Basic, Elixir.
 + Frameworks: Spring, Express.js, React.js, Vue.js, .NET, Android SDK.
 + DBS: MySQL / MariaDB, Microsoft SQL Server, PostgreSQL, MongoDB, Oracle.
 + OS Administration: GNU / Linux and Windows.
