@@ -1,20 +1,20 @@
-My name is Alejandro and I am passionate about IT.
+# Hi there! My name is Alejandro Buján 👋
 
-From the beginning of my life, I have been in contact with new technologies, resulting in a love-hate relationship that ended up normalizing and becoming part of me.
+First and foremost, I am a CSE (Computer Science & Engineering) Student and I like what I do.
 
-Currently, I am 21 years old and a Computer Science Engineering student at the University of A Coruña, as well as a Higher Technician in Multi-platform Applications Development and a Technician in Microcomputer Systems and Networks, holding both titles with honours.
+I also obtained a Research Collaboration Grant in the [Databases Lab. Research Group](https://lbd.udc.es/MainPage.do?lang=en_US) of the Department of Computer Science, University of A Coruña, where I am delving into aspects such as Software Product Line (SPL) engineering, version control systems and code generation based on Model-Driven Development.
 
-Furthermore, I achieved awards and recognitions such as the Bronze (National) and Gold (Autonomous) Medals in the discipline of Computer Network Systems Management in the official 2018-19 Vocational Training championships carried out by the Ministry of Education and Vocational Training (MEFP).
+I feel comfortable in international contexts, since I have studied part of my degree at [Hanyang University, Seoul, South Korea](https://www.hanyang.ac.kr/), I have completed a stay at the [Learnovate Research Centre, Trinity College Dublin, Ireland](https://www.learnovatecentre.org/), as well as internships in companies in Turin, Italy and Lisbon, Portugal.
 
-During my professional career, I completed internships in companies from different cities such as Dublin, Lisbon, and Turin. It helped me to certify a C1 level in English and a B1 level in Portuguese.
+These are my main skills:
 
-I am familiar with technologies such as:
-
-+ Programming: Java, Python, C#, Visual Basic .NET, JS, PHP.
-+ DBMS: MySQL / MariaDB, Microsoft SQL Server, PostgreSQL, MongoDB, Oracle.
++ Programming: Java, JS, Python, C#, Visual Basic, Elixir.
++ Frameworks: Spring, Express.js, React.js, Vue.js, .NET, Android SDK.
++ DBS: MySQL / MariaDB, Microsoft SQL Server, PostgreSQL, MongoDB, Oracle.
 + OS Administration: GNU / Linux and Windows.
-+ Cloud: AWS, Azure, Google Cloud.
++ ERP Development: Odoo
 + Networks, firewalls, computer security.
+
 
 <!---
 alejandrobujan/alejandrobujan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
