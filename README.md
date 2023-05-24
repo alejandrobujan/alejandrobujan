@@ -1,6 +1,6 @@
 # Hi there! My name is Alejandro Buján 👋
 
-🎓 First and foremost, I am a CSE (Computer Science & Engineering) Student and I like what I do.
+🎓 First and foremost, I am a CSE (Computer Science & Engineering) student and I like what I do.
 
 🔭 I also obtained a Research Collaboration Grant in the [Databases Lab. Research Group](https://lbd.udc.es/MainPage.do?lang=en_US) of the Department of Computer Science, University of A Coruña, where I am delving into aspects such as Software Product Line (SPL) engineering, version control systems and code generation based on Model-Driven Development.
 
