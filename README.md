@@ -6,7 +6,7 @@
 
 🌎 I feel comfortable in international contexts, since I have studied part of my degree at [Hanyang University, Seoul, South Korea](https://www.hanyang.ac.kr/), I have completed a stay at the [Learnovate Research Centre, Trinity College Dublin, Ireland](https://www.learnovatecentre.org/), as well as internships in companies in Turin, Italy and Lisbon, Portugal.
 
-🏅 I also won a few national and regional academic awards during my years as CSE student.
+🏅 I also won a few national and regional academic awards during my years as a CSE student.
 
 These are my main skills:
 
