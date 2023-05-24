@@ -18,7 +18,7 @@ These are my main skills:
 + **ERP Development**: Odoo
 + **Networks, firewalls, computer security.**
 
-📫 You can reach me through my email [alejandro.bujan.pampin@gmail.com](mailto://alejandro.bujan.pampin@gmail.com)
+📫 You can reach me through my email [alejandro.bujan.pampin@gmail.com](mailto:alejandro.bujan.pampin@gmail.com)
 
 <!---
 alejandrobujan/alejandrobujan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
