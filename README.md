@@ -12,6 +12,7 @@ These are my main skills:
 
 + **Programming**: Java, JS, Python, C, C#, Visual Basic, Elixir.
 + **Frameworks**: Spring, Express.js, React.js, Vue.js, .NET, Android SDK.
++ **AI/ML**: Scikit-Learn
 + **DBS**: MySQL / MariaDB, Microsoft SQL Server, PostgreSQL, MongoDB, Oracle.
 + **OS Administration**: GNU / Linux and Windows.
 + **ERP Development**: Odoo
