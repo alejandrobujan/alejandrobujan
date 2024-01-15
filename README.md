@@ -2,7 +2,7 @@
 
 🎓 First and foremost, I am a CSE (Computer Science & Engineering) student and I like what I do.
 
-🔭 Currently, I am working within the framework of a research grant at [CiTIUS](https://citius.gal/), focusing on Virtual Reality and its enrichment through process mining as main topics, and I am also part of the [Databases Lab. Research Group](https://lbd.udc.es/MainPage.do?lang=en_US) of the Department of Computer Science, University of A Coruña, where I am delving into aspects such as Software Product Line (SPL) engineering, version control systems and code generation based on Model-Driven Development.
+🔭 Currently, I am working within the framework of a research grant at the [Databases Lab. Research Group](https://lbd.udc.es/MainPage.do?lang=en_US) of the Department of Computer Science, University of A Coruña, where I am delving into aspects such as Software Product Line (SPL) engineering, version control systems and code generation based on Model-Driven Development. 
 
 🌎 I feel comfortable in international contexts, since I have studied part of my degree at [Hanyang University, Seoul, South Korea](https://www.hanyang.ac.kr/), I have completed a stay at the [Learnovate Research Centre, Trinity College Dublin, Ireland](https://www.learnovatecentre.org/), as well as internships in companies in Turin, Italy and Lisbon, Portugal.
 
